@@ -1,0 +1,4 @@
+b4df02bf-6e23-4379-b143-cbc5ad3c217a,jhon,1234,jhon@email.com,true
+c44f314d-0dc0-4459-8055-8ca59ba969a2,Manuelita,yo123456,manuelita@example.com,true
+40ab3f2c-8e8d-4e4b-ac88-0c61caee444e,Baikal,123,abac@mail.com,true
+6dd0915a-e2f2-40b1-8996-22ee00687622,Baikal,123,abac@mail.coma,true
